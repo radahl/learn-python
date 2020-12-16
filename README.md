@@ -17,4 +17,5 @@ ML and DS:
 Chirstian recomended: 
 https://www.anaconda.com/products/individual
 using spyder
+Don't know if it can co-exist with teh Eclipse instalation - testing it out
 
