@@ -10,3 +10,11 @@ Add python to Eclipse following the instructions here: adding http://www.pydev.o
 
 
 How to use Github with Eclipse: https://www.youtube.com/watch?v=LPT7v69guVY
+
+
+
+ML and DS:
+Chirstian recomended: 
+https://www.anaconda.com/products/individual
+using spyder
+
