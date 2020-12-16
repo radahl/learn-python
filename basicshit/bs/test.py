@@ -1,5 +1,5 @@
 '''
-Created on Dec 14, 2020
+Created on Dec 15, 2020
 
 @author: radah
 
@@ -15,6 +15,9 @@ while a < 10:
 print('end')
 y = Vec(1,2,3,4,5)
 print( x + y )
+
+
+
 '''
 
 from tkinter import Tk, Canvas
